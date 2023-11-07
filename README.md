@@ -159,8 +159,8 @@ Find and fix as many bugs as you can in [/2_fix_the_bugs](./2_fix_the_bugs)!
 
 > ~10 minutes
 
-1. Each group will have 2-3 minutes to share:
-   - One thing they couldn't figure out
-   - One surprising thing they learned
-   - One thing they'd like to discuss with the full class
-2. Discuss!
+- Each group will have 2-3 minutes to share:
+  - One thing they couldn't figure out
+  - One surprising thing they learned
+  - One thing they'd like to discuss with the full class
+- Discuss!
