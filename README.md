@@ -9,6 +9,7 @@ Debugging is a complicated skill. It's a mix of experience ("I've seen this befo
 - [Learning Objectives](#learning-objectives)
 - [Prep Work](#prep-work)
 - [Workshop Outline](#workshop-outline)
+- [Suggested Study](./suggested-study.md)
 
 ---
 
