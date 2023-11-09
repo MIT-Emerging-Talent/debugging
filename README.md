@@ -65,6 +65,7 @@ Learning objective for this workshop are labeled so you can prioritize your stud
   - Which line will execute next?
   - What will change in memory (_callstack_ and _variables_)?
 - 🐣 You can identify steps of execution that surprise you. This will help understand the gap between what a program _does_ do, and what it _should_ do.
+- 🐣 You can recognize these four types of bug: overt vs. covert, and persistent vs. intermittent.
 - 🐣 You can clearly describe a bug by answering these questions:
   - what _should_ the program do? Name specific test cases and lines of code!
   - What _does_ the program do? Name specific test cases and lines of code!
