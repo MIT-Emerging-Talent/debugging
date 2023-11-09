@@ -14,3 +14,5 @@ To check if you _really_ understand a program, try predictive stepping:
 4. Investigate if you were wrong: Is this a bug in the program, or is it something you did not understand?
 
 You can write all the comments you want!
+
+> PS. Don't forget to watch the [guide video!](./guide.mp4)
