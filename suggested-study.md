@@ -24,3 +24,9 @@ Some tutorial series covering how to use the Python debugger in VSCode. These tu
 - [Python Preview](https://marketplace.visualstudio.com/items?itemName=dongli.python-preview) (basically Python Tutor inside VSCode)
 - [Test Explorer](https://marketplace.visualstudio.com/items?itemName=LittleFoxTeam.vscode-python-test-adapter)
 - [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)
+
+## Python Classes
+
+This repository has a good series of example programs that demonstrate how to do Object Oriented Programming in Python. To learn how classes work, you can study these programs with _predictive stepping_:
+
+- [Shikha-code36/Object-Oriented-Programming-OOPs-Python](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python)
