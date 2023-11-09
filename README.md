@@ -103,16 +103,12 @@ If you have more time, you can watch the [`/1_stepping_through` guide video](./0
 
 ### Workshop Overview _(all together)_
 
-> ~10 minutes
-
 The workshop instructor will introduce the main concepts of this workshop:
 
 - Introduce the workshop's [learning objectives](#learning-objectives).
 - Demonstrate _predictive stepping_ in a debugger.
 
 ### Practice Predictive Stepping _(small groups)_
-
-> ~10 minutes
 
 Have one person in your group share their screen, then practice asking and answering these questions as you study the programs in [/0_stepping_through](./0_stepping_through):
 
@@ -128,8 +124,6 @@ After each step:
 
 ### The Debugging Mindset _(all together)_
 
-> ~10 minutes
-
 - Each group will have 1 minute to share:
   - One thing they couldn't understand
   - One interesting thing they learned
@@ -137,13 +131,9 @@ After each step:
 
 ### Find the Bugs! _(small groups)_
 
-> ~20 minutes
-
 Try to find the bug in each program of [/1_find_the_bugs](./1_find_the_bugs/):
 
 ### Discussion & Introduce Next Exercise _(all together)_
-
-> ~10 minutes
 
 - Each group will have 1-2 minutes to share:
   - One thing they couldn't figure out
@@ -154,13 +144,9 @@ Try to find the bug in each program of [/1_find_the_bugs](./1_find_the_bugs/):
 
 ### Fix the Bugs! _(small groups)_
 
-> ~20 minutes
-
 Find and fix as many bugs as you can in [/2_fix_the_bugs](./2_fix_the_bugs)!
 
 ### Discussion _(all together)_
-
-> ~10 minutes
 
 - Each group will have 2-3 minutes to share:
   - One thing they couldn't figure out
