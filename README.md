@@ -60,6 +60,7 @@ Learning objective for this workshop are labeled so you can prioritize your stud
 - 🦆 You are not embarrassed to do some [rubber duck debugging](https://rubberduckdebugging.com/).
 - 🥚 You know that someone else will always use your program [in a way you didn't imagine](https://www.youtube.com/watch?v=CfCiW4UhqLo).
 - 🥚 You can study a program skeptically, always asking "_how can I break this program?_".
+- 🥚 Pair programming with someone you trust.
 - 🐣 You can _predict_ a program's behavior while stepping through in the debugger:
   - Which line will execute next?
   - What will change in memory (_callstack_ and _variables_)?
@@ -75,6 +76,7 @@ Learning objective for this workshop are labeled so you can prioritize your stud
 >
 > - [Brian Kernighan](https://github.com/dwmkerr/hacker-laws#kernighans-law)
 
+- 🥚 Pair programming with someone you trust.
 - 🥚 Always use the simplest and most understandable solution. ([KISS](https://github.com/dwmkerr/hacker-laws#the-kiss-principle))
 - 🥚 Develop your code one small step at a time, writing and running tests for each change before moving on.
 - 🥚 Have others read and review your code, they will find mistakes you missed and think of improvements you wouldn't.
