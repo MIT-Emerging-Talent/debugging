@@ -96,7 +96,7 @@ How to prepare before the workshop:
 - Install python on your computer if you have not already.
 - Practice [opening a folder in VSCode and running a Python script](https://www.youtube.com/watch?v=197JAS1gNKo).
 
-If you have more time, you can watch the [`/1_stepping_through` guide video](./0_stepping-through/) and practice with the `/0_stepping_through` exercises.
+If you have more time, you can watch the [`/1_stepping_through` guide video](./0_stepping_through/) and practice with the `/0_stepping_through` exercises.
 
 ---
 
